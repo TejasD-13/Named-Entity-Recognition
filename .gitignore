@@ -3,11 +3,11 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
-.Python
 *.egg-info/
 dist/
 build/
 *.egg
+.pytest_cache/
 
 # Virtual environments
 venv/
@@ -24,7 +24,10 @@ env/
 *.DS_Store
 Thumbs.db
 
-# Node (legacy flask assets if any)
+# Node (legacy)
 node_modules/
 package-lock.json
 package.json
+
+# Old Flask templates (kept for reference, not needed by Streamlit)
+# templates/

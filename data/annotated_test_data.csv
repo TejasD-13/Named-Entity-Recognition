@@ -1,0 +1,33 @@
+text_id,text,entity_text,entity_label,start_char,end_char
+1,"Apple Inc. was founded by Steve Jobs and Steve Wozniak in Cupertino, California in 1976.",Apple Inc.,ORG,0,10
+1,"Apple Inc. was founded by Steve Jobs and Steve Wozniak in Cupertino, California in 1976.",Steve Jobs,PERSON,26,36
+1,"Apple Inc. was founded by Steve Jobs and Steve Wozniak in Cupertino, California in 1976.",Steve Wozniak,PERSON,41,54
+1,"Apple Inc. was founded by Steve Jobs and Steve Wozniak in Cupertino, California in 1976.",Cupertino,GPE,58,67
+1,"Apple Inc. was founded by Steve Jobs and Steve Wozniak in Cupertino, California in 1976.",California,GPE,69,79
+1,"Apple Inc. was founded by Steve Jobs and Steve Wozniak in Cupertino, California in 1976.",1976,DATE,83,87
+2,"The United Nations was established in 1945 after World War II.",United Nations,ORG,4,18
+2,"The United Nations was established in 1945 after World War II.",1945,DATE,38,42
+2,"The United Nations was established in 1945 after World War II.",World War II,EVENT,49,61
+3,"Narendra Modi is the Prime Minister of India.",Narendra Modi,PERSON,0,13
+3,"Narendra Modi is the Prime Minister of India.",India,GPE,39,44
+4,"Microsoft reported revenue of $198 billion in the fiscal year 2023.",Microsoft,ORG,0,9
+4,"Microsoft reported revenue of $198 billion in the fiscal year 2023.",2023,DATE,62,66
+5,"The algorithm processes input efficiently.",NO_ENTITY,,0,0
+6,"Sachin Tendulkar scored his 100th century at Mirpur, Bangladesh in March 2012.",Sachin Tendulkar,PERSON,0,16
+6,"Sachin Tendulkar scored his 100th century at Mirpur, Bangladesh in March 2012.",100th,ORDINAL,28,33
+6,"Sachin Tendulkar scored his 100th century at Mirpur, Bangladesh in March 2012.",Mirpur,GPE,45,51
+6,"Sachin Tendulkar scored his 100th century at Mirpur, Bangladesh in March 2012.",Bangladesh,GPE,53,63
+6,"Sachin Tendulkar scored his 100th century at Mirpur, Bangladesh in March 2012.",March 2012,DATE,67,77
+7,"Amazon, Google, and Meta are among the largest technology companies.",Amazon,ORG,0,6
+7,"Amazon, Google, and Meta are among the largest technology companies.",Google,ORG,8,14
+7,"Amazon, Google, and Meta are among the largest technology companies.",Meta,ORG,20,24
+8,"The Eiffel Tower is located in Paris, France and was built in 1889.",Eiffel Tower,FAC,4,16
+8,"The Eiffel Tower is located in Paris, France and was built in 1889.",Paris,GPE,31,36
+8,"The Eiffel Tower is located in Paris, France and was built in 1889.",France,GPE,38,44
+8,"The Eiffel Tower is located in Paris, France and was built in 1889.",1889,DATE,62,66
+9,"J.K. Rowling published Harry Potter and the Philosopher's Stone in 1997.",J.K. Rowling,PERSON,0,12
+9,"J.K. Rowling published Harry Potter and the Philosopher's Stone in 1997.",Harry Potter and the Philosopher's Stone,WORK_OF_ART,23,63
+9,"J.K. Rowling published Harry Potter and the Philosopher's Stone in 1997.",1997,DATE,67,71
+10,"The Reserve Bank of India increased the repo rate by 25 basis points to 6.5% in February 2023.",Reserve Bank of India,ORG,4,25
+10,"The Reserve Bank of India increased the repo rate by 25 basis points to 6.5% in February 2023.",6.5%,PERCENT,72,76
+10,"The Reserve Bank of India increased the repo rate by 25 basis points to 6.5% in February 2023.",February 2023,DATE,80,93
